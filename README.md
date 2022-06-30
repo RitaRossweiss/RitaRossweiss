@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🤔坏了，我文件呢？
+<!-- 访客 -->
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=captain5.captain5" alt="visitor badge"/>
+</p>
