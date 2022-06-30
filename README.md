@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 <img align="" src="https://github-readme-stats.vercel.app/api?username=captain5&show_icons=true">
 
-
 <!-- 访客 -->
-<p align="center">
+<p align="">
   <img src="https://visitor-badge.glitch.me/badge?page_id=captain5.captain5" alt="visitor badge"/>
 </p>
