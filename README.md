@@ -8,8 +8,8 @@
 [![](https://img.shields.io/badge/VisualStudio-Code-red?style=flat-square&logo=VisualStudioCode)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/OnePlus-3T-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
-[![](https://img.shields.io/badge/Redmi-K30P-f5010c?style=flat-square&logo=Xiaomi)](https://www.mi.com/))
-
+[![](https://img.shields.io/badge/Redmi-K30P-f5010c?style=flat-square&logo=Xiaomi)](https://www.mi.com/)
+[![](https://img.shields.io/badge/Nintendo-Switch-f5010c?style=flat-square&logo=NintendoSwitch)](https://www.nintendo.com/)
 
 
 <p align="">
