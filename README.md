@@ -8,7 +8,7 @@
 ?style=flat-square&logo=appveyor
 
 [![](https://img.shields.io/badge/Windows-11-red?style=flat-square&logo=Windows)](https://www.microsoft.com/windows/windows-11)
-[![](https://img.shields.io/badge/Visual Studio Code-red?style=flat-square&logo=Visual Studio Code)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/VSCode-red?style=flat-square&logo=Visual Studio Code)](https://code.visualstudio.com/)
 
 <p align="">
   <img src="https://visitor-badge.glitch.me/badge?page_id=captain5.captain5" alt="visitor badge"/>
