@@ -13,6 +13,6 @@
 
 [![](https://img.shields.io/badge/steam-0c4c7d?style=flat-square&logo=Steam)](www.steampowered.com)
 [![](https://img.shields.io/badge/OSU!-E0234E?style=flat-square&logo=osu!)](osu.ppy.sh/)
-[![](https://img.shields.io/badge/ACG-ffffff?style=flat-square&logo=niconico)(www.bilibili.com)
+
 
 🤡
