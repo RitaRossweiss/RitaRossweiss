@@ -7,5 +7,5 @@
 [![](https://img.shields.io/badge/ACG-E0234E?style=flat-square&logo=niconico)](https://www.bilibili.com/)
 
 <p align="right">
-  🍓
+  🤡
 </p>
