@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitaRossweiss&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaRossweiss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 > **“But why, some say, the moon?”** 
 
 [![](https://img.shields.io/badge/steam-0c4c7d?style=flat-square&logo=Steam)](https://steamcommunity.com/profiles/76561198419153011/)
@@ -7,7 +8,7 @@
 [![](https://img.shields.io/badge/ACG-E0234E?style=flat-square&logo=niconico)](https://www.bilibili.com/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaRossweiss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="right">
   🤡
 </p>
